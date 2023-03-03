@@ -1,6 +1,3 @@
-% Bozatzis Miltiadis
-% Kallimanis Ioannis
-
 % GR
 clc
 clear
